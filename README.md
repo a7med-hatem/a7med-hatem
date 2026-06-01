@@ -36,11 +36,11 @@ Beyond core development, I enjoy leading cross-functional teams, structuring wor
 
 ---
 
-## :construction_site: Technical Skills
+## Technical Skills
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
 </p>
 
 ### Backend & Web Development
@@ -50,12 +50,7 @@ Beyond core development, I enjoy leading cross-functional teams, structuring wor
 
 ### Databases & Data Engineering
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,sqlserver" />
-</p>
-
-### Tools & Core Concepts
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ---
