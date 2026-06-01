@@ -14,7 +14,7 @@ I’m an MIS student at Alexandria University. During my studies, I learned a lo
 
 That’s why I decided to take my skills to the next level and focus on Backend Development and Data Engineering. I like building the hidden parts of applications that handle heavy work.
 
-I already know my way around T-SQL, Node.js, and Java, and I am always working on improving my problem-solving skills to build efficient and scalable systems.
+I already know my way around SQL, Node.js, and Java, and I am always working on improving my problem-solving skills to build efficient and scalable systems.
 
 If I can understand complex business requirements and turn them into clean, working code, I can definitely engineer systems to handle any data challenge!
 
