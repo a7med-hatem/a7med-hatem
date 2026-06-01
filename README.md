@@ -48,17 +48,16 @@ Beyond core development, I enjoy leading cross-functional teams, structuring wor
   <img src="https://skillicons.dev/icons?i=nodejs,express,html,css" />
 </p>
 
- Databases & Tools
+🛢️ Databases & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
-  <img src="https://cdn-icons-png.flaticon.com/512/3163/3163502.png" height="50" alt="Database Storage" />
-  <img src="https://skillicons.dev/icons?i=sqlserver,postgres" />
-  <img src="https://i.postimg.cc/bNgjg9zH/Draven-202400.png" height="50" alt="SQL Cloud" />
+  <img src="https://camo.githubusercontent.com/32b4b8da15dc30a884e6a254cb52547b4671b42ddf5a2f5f33dbad3ee779f5af/
+    68747470733a2f2f6c6f676f6469782e636f6d2f6c6f676f2f3534323134372e706e67"/>
 </p>
 
 ---
 
 ⭐️ **Interested in backend engineering, systems programming, and open-source contributions.**
 
----
+
 
