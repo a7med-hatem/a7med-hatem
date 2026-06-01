@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Ahmed Hatem
+  Hi, I'm Ahmed Hatem 👋
 </h1>
 
 <p align="center">
@@ -36,21 +36,24 @@ Beyond core development, I enjoy leading cross-functional teams, structuring wor
 
 ---
 
-## Technical Skills
+## 🏗️ Technical Skills
 
 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js" />
 </p>
 
-### Backend & Web Technologies
+### ⚙️ Backend & Web Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,html,css" />
 </p>
 
 ### Databases & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://th.bing.com/th/id/R.aa9268c2f03767c62454ac45d5459cd7?rik=vZmmENhShEgOqA&pid=ImgRaw&r=0" height="50"         alt="Database Storage" />
+  <img src="https://skillicons.dev/icons?i=sqlserver,postgres" />
+  <img src="https://i.postimg.cc/bNgjg9zH/Draven-202400.png" height="50" alt="SQL Cloud" />
 </p>
 ---
 
