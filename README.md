@@ -42,18 +42,18 @@ If I can understand complex business requirements and turn them into clean, work
 
 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js" />
-  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height ="60" />
+  <img src="https://skillicons.dev/icons?i=python,js"/>
+  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height ="60"/>
 </p>
 
 ⚙️ Backend & Web Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,html,css" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,html,css"/>
 </p>
 
 🛢️ Databases & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github"/>
   <img src="https://logodix.com/logo/542147.png" height ="50"/>
 </p>
 
