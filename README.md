@@ -53,7 +53,7 @@ If I can understand complex business requirements and turn them into clean, work
 🛢️ Databases & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
-  <img src="databases-tools.png" />
+  <img src="https://img.shields.io/badge/T--SQL-00758F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"          height="45"" />
 </p>
 
 ---
