@@ -38,21 +38,20 @@ Beyond core development, I enjoy leading cross-functional teams, structuring wor
 
 ## Technical Skills
 
-### Programming Languages
+💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js" />
 </p>
 
-### Backend & Web Development
+### Backend & Web Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,html,css" />
 </p>
 
-### Databases & Data Engineering
+###Databases & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=git,github,sql" />
 </p>
-
 ---
 
 ### 💼 Why Hire an MIS Student for Data & Backend?
