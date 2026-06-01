@@ -48,17 +48,11 @@ Beyond core development, I enjoy leading cross-functional teams, structuring wor
   <img src="https://skillicons.dev/icons?i=nodejs,express,html,css" />
 </p>
 
-###Databases & Tools
+### Databases & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,sql" />
+  <img src="https://skillicons.dev/icons?i=git,github,mysql" />
 </p>
 ---
 
-### 💼 Why Hire an MIS Student for Data & Backend?
-
-* **Business-to-Tech Translator:** Because of my MIS background, I don't just write queries; I understand the financial and operational impact of the data. I build databases that answer real business questions.
-* **Analytical Mindset:** My studies in Statistical Packages and Systems Analysis mean I naturally look at data through a lens of architecture, reliability, and structured scalability.
-* **Team Leadership:** I don't just sit behind a screen; I know how to lead cross-functional workflows and align technical tasks with project goals.
-
-⭐️ **Currently open to opportunities in Data Engineering, Backend Development, and System Architecture.**
+⭐️ **Interested in backend engineering, systems programming, and open-source contributions.**
 
