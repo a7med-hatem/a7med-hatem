@@ -43,7 +43,7 @@ If I can understand complex business requirements and turn them into clean, work
 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js"/>
-  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height ="60"/>
+  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height ="45"/>
 </p>
 
 ⚙️ Backend & Web Technologies
