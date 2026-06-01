@@ -8,19 +8,21 @@ Backend Engineer • Data Engineer
 
 ---
 
-## 🕵️ About Me
+ ## 🕵️ About Me
 
-I’m a Management Information Systems (MIS) student at the Faculty of Business, Alexandria University, deeply passionate about **Backend Development, Data Engineering, and Database Systems**.
+I’m an MIS student at Alexandria University. During my studies, I learned a lot about how businesses operate. But when I started writing code and designing databases, I realized something important: business ideas are great, but the real power comes from the data and the tech that runs it.
 
-I love bridging the gap between complex business logic and robust technical architectures. I have hands-on experience designing scalable relational database schemas and building secure, efficient backend services. Whether it's architecting complete server ecosystems using **Node.js** or designing multi-stage **ETL pipelines** for data warehouses, I focus on performance, query optimization, and clean code.
+That’s why I decided to take my skills to the next level and focus on Backend Development and Data Engineering. I like building the hidden parts of applications that handle heavy work.
 
-Beyond core development, I enjoy leading cross-functional teams, structuring workflows, and continuous learning—as demonstrated through my participation in the **McKinsey Forward Program**, where I sharpened my structured problem-solving and communication skills.
+I already know my way around T-SQL, Node.js, and Java, and I am always working on improving my problem-solving skills to build efficient and scalable systems.
+
+If I can understand complex business requirements and turn them into clean, working code, I can definitely engineer systems to handle any data challenge!
 
 📄 **Resume:** [View PDF](https://drive.google.com/file/d/1MWrSJ9-45zXRk5XDGBLQVFUOnKtADYSH/view?usp=sharing)
 
 ---
 
-## Catch Me Online
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/-ahmed-hatem-/">
@@ -51,13 +53,9 @@ Beyond core development, I enjoy leading cross-functional teams, structuring wor
 🛢️ Databases & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
-  <img src="https://camo.githubusercontent.com/32b4b8da15dc30a884e6a254cb52547b4671b42ddf5a2f5f33dbad3ee779f5af/
-    68747470733a2f2f6c6f676f6469782e636f6d2f6c6f676f2f3534323134372e706e67"/>
+  <img src="https://img.shields.io/badge/T--SQL-00758F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
 ---
 
-⭐️ **Interested in backend engineering, systems programming, and open-source contributions.**
-
-
-
+⭐️ **Interested in backend engineering, data engineering, and open-source contributions.**
