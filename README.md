@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Backend Engineer • Data Engineer
+Data Engineer • Backend Engineer
 </p>
 
 ---
@@ -79,4 +79,4 @@ If I can understand complex business requirements and turn them into clean, work
 
 ---
 
-⭐️ **Interested in backend engineering, data engineering, and open-source contributions.**
+⭐️ **Interested in data engineering, backend engineering and open-source contributions.**
